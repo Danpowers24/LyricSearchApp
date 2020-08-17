@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d LyricSearchApp"
+    "deploy": "gh-pages -d Lyric_Search_App"
   },
   "repository": {
     "type": "git",

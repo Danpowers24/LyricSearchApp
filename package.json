@@ -1,0 +1,23 @@
+{
+  "name": "LyricSearchApp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d LyricSearchApp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danpowers24/LyricSearchApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danpowers24/LyricSearchApp/issues"
+  },
+  "homepage": "https://Danpowers24.github.io/LyricSearchApp",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
